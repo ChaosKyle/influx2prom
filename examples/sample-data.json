@@ -1,0 +1,50 @@
+[
+  {
+    "host": "server1",
+    "cpu": "cpu0",
+    "_value": 45.2,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server1",
+    "cpu": "cpu1",
+    "_value": 32.5,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server1",
+    "cpu": "cpu2",
+    "_value": 15.8,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server1",
+    "cpu": "cpu3",
+    "_value": 78.1,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server2",
+    "cpu": "cpu0",
+    "_value": 28.3,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server2",
+    "cpu": "cpu1",
+    "_value": 65.7,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server2",
+    "cpu": "cpu2",
+    "_value": 42.9,
+    "_time": "2023-05-08T12:00:00Z"
+  },
+  {
+    "host": "server2",
+    "cpu": "cpu3",
+    "_value": 10.5,
+    "_time": "2023-05-08T12:00:00Z"
+  }
+]

@@ -1,0 +1,9 @@
+timestamp,host,cpu,usage
+2023-05-08T12:00:00Z,server1,cpu0,45.2
+2023-05-08T12:00:00Z,server1,cpu1,32.5
+2023-05-08T12:00:00Z,server1,cpu2,15.8
+2023-05-08T12:00:00Z,server1,cpu3,78.1
+2023-05-08T12:00:00Z,server2,cpu0,28.3
+2023-05-08T12:00:00Z,server2,cpu1,65.7
+2023-05-08T12:00:00Z,server2,cpu2,42.9
+2023-05-08T12:00:00Z,server2,cpu3,10.5
