@@ -16,7 +16,7 @@ A Python CLI tool that converts InfluxDB query results to Prometheus format - wi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/influx2prom.git
+git clone https://github.com/chaoskyle/influx2prom.git
 cd influx2prom
 ```
 
