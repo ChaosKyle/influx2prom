@@ -1,0 +1,14 @@
+[
+  {
+    "query": "from(bucket:\"system\") |> range(start: -1h) |> filter(fn: (r) => r._measurement == \"cpu\")",
+    "dataset_name": "cpu_metrics"
+  },
+  {
+    "query": "from(bucket:\"system\") |> range(start: -1h) |> filter(fn: (r) => r._measurement == \"memory\")",
+    "dataset_name": "memory_metrics"
+  },
+  {
+    "query": "from(bucket:\"system\") |> range(start: -1h) |> filter(fn: (r) => r._measurement == \"disk\")",
+    "dataset_name": "disk_metrics"
+  }
+]

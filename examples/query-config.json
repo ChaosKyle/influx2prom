@@ -1,9 +1,0 @@
-{
-  "query": "from(bucket: \"my_bucket\") |> range(start: -1h) |> filter(fn: (r) => r._measurement == \"cpu\") |> last()",
-  "metricName": "system_cpu_usage",
-  "metricType": "gauge",
-  "metricHelp": "CPU usage in percent",
-  "labelColumns": ["host", "cpu"],
-  "valueColumn": "_value",
-  "timestampColumn": "_time"
-}
